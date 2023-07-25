@@ -1,0 +1,10 @@
+* cl-utils
+
+GrammaTech Common Lisp Utilities
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/grammatech/cl-utils.git   |
+| commit  | b8c08dc  |
+| systems | cl-utils |
+|---------+-------------------------------------------|
+
