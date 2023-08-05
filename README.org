@@ -4,7 +4,7 @@ GrammaTech Common Lisp Utilities
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/grammatech/cl-utils.git   |
-| commit  | b8c08dc  |
+| commit  | 4644c14  |
 | systems | cl-utils |
 |---------+-------------------------------------------|
 
